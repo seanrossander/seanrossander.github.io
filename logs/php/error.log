@@ -1,7 +1,0 @@
-[17-May-2024 11:14:38 UTC] Cron unschedule event error for hook: wp_update_comment_type_batch, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
-[17-May-2024 14:18:09 UTC] PHP Warning:  Undefined array key "width" in C:\Users\SeanRossander\Local Sites\sean-rossander\app\public\wp-admin\includes\image.php on line 110
-[17-May-2024 14:18:09 UTC] PHP Warning:  Undefined array key "height" in C:\Users\SeanRossander\Local Sites\sean-rossander\app\public\wp-admin\includes\image.php on line 111
-[17-May-2024 14:18:09 UTC] PHP Warning:  Undefined array key "width" in C:\Users\SeanRossander\Local Sites\sean-rossander\app\public\wp-admin\includes\image.php on line 110
-[17-May-2024 14:18:09 UTC] PHP Warning:  Undefined array key "height" in C:\Users\SeanRossander\Local Sites\sean-rossander\app\public\wp-admin\includes\image.php on line 111
-[17-May-2024 18:55:55 UTC] PHP Warning:  Undefined array key "width" in C:\Users\SeanRossander\Local Sites\sean-rossander\app\public\wp-admin\includes\image.php on line 110
-[17-May-2024 18:55:55 UTC] PHP Warning:  Undefined array key "height" in C:\Users\SeanRossander\Local Sites\sean-rossander\app\public\wp-admin\includes\image.php on line 111
