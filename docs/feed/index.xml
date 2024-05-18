@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sean Rossander</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 May 2024 20:08:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/05/output-onlinepngtools5-150x150.png</url>
+	<url>./../wp-content/uploads/2024/05/output-onlinepngtools5-150x150.png</url>
 	<title>Sean Rossander</title>
-	<link>/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
